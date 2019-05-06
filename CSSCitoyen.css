@@ -1,0 +1,29 @@
+﻿.brd 
+{
+    border: 1px solid black;
+}
+.color1
+{
+    color: red;
+}
+.color2 
+{
+    color: blue;
+}
+.color3
+{
+    color: green;
+}
+.mar
+{
+    margin-left: 50px;
+
+}
+.grandeDiv
+{
+    width: 300px;
+}
+.marg
+{
+    margin-bottom:50px
+}

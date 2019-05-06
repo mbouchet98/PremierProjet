@@ -1,0 +1,14 @@
+C:\Users\BOUCHETMAE\Documents\Visual Studio 2013\Projects\PremierProjet\PremierProjet\obj\Debug\PremierProjet.csprojResolveAssemblyReference.cache
+C:\Users\BOUCHETMAE\Documents\Visual Studio 2013\Projects\PremierProjet\PremierProjet\bin\PremierProjet.dll.config
+C:\Users\BOUCHETMAE\Documents\Visual Studio 2013\Projects\PremierProjet\PremierProjet\bin\PremierProjet.dll
+C:\Users\BOUCHETMAE\Documents\Visual Studio 2013\Projects\PremierProjet\PremierProjet\bin\PremierProjet.pdb
+C:\Users\BOUCHETMAE\Documents\Visual Studio 2013\Projects\PremierProjet\PremierProjet\obj\Debug\PremierProjet.dll
+C:\Users\BOUCHETMAE\Documents\Visual Studio 2013\Projects\PremierProjet\PremierProjet\obj\Debug\PremierProjet.pdb
+C:\Users\BOUCHETMAE\Documents\Visual Studio 2013\Projects\PremierProjet\PremierProjet\obj\Debug\PremierProjet.csproj.CoreCompileInputs.cache
+D:\Travaille\Maelys (tempo\PremierProjet\PremierProjet\bin\PremierProjet.dll.config
+D:\Travaille\Maelys (tempo\PremierProjet\PremierProjet\bin\PremierProjet.dll
+D:\Travaille\Maelys (tempo\PremierProjet\PremierProjet\bin\PremierProjet.pdb
+D:\Travaille\Maelys (tempo\PremierProjet\PremierProjet\obj\Debug\PremierProjet.csprojAssemblyReference.cache
+D:\Travaille\Maelys (tempo\PremierProjet\PremierProjet\obj\Debug\PremierProjet.csproj.CoreCompileInputs.cache
+D:\Travaille\Maelys (tempo\PremierProjet\PremierProjet\obj\Debug\PremierProjet.dll
+D:\Travaille\Maelys (tempo\PremierProjet\PremierProjet\obj\Debug\PremierProjet.pdb
